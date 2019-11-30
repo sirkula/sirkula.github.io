@@ -6,108 +6,45 @@
     <description>Recent content in Portfolios on Sirkula</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Nov 2016 20:23:59 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 05 Nov 2016 19:50:47 +0530</lastBuildDate>
     
 	<atom:link href="https://www.sirkula.id/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Name of the work 2</title>
-      <link>https://www.sirkula.id/portfolio/work2/</link>
+      <title>Web Profil Perusahaan</title>
+      <link>https://www.sirkula.id/portfolio/business-prof/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>https://www.sirkula.id/portfolio/work2/</guid>
-      <description>&lt;p&gt;When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.&lt;/p&gt;</description>
+      <guid>https://www.sirkula.id/portfolio/business-prof/</guid>
+      <description>&lt;p&gt;Walau kini &lt;em&gt;marketplace&lt;/em&gt; telah mampu memfasilitasi transaksi antara penjual dan pembeli dengan aman dan nyaman, &lt;em&gt;merchant&lt;/em&gt; sulit membangun merk (&lt;em&gt;branding&lt;/em&gt;) bagi bisnis mereka. Halaman profil semua &lt;em&gt;merchant&lt;/em&gt; di suatu &lt;em&gt;marketplace&lt;/em&gt; akan seragam. Karena itu, &lt;em&gt;merchant&lt;/em&gt; yang sadar &lt;em&gt;branding&lt;/em&gt; perlu memiliki website sendiri yang membentuk citra &lt;em&gt;brand&lt;/em&gt; mereka.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Name of the work 3</title>
-      <link>https://www.sirkula.id/portfolio/work3/</link>
+      <title>Data Explorer</title>
+      <link>https://www.sirkula.id/portfolio/data-explorer/</link>
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
       
-      <guid>https://www.sirkula.id/portfolio/work3/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&#39;t them.&lt;/p&gt;</description>
+      <guid>https://www.sirkula.id/portfolio/data-explorer/</guid>
+      <description>&lt;p&gt;Data yang sudah banyak terkumpul akan menjadi kurang berguna jika tidak ada cara mudah untuk menemukan, menampilkan, dan mengunduh data yang diperlukan. Penjelajah data kami sudah dimanfaatkan salah satunya oleh salah satu fakultas di Universitas Airlangga, Surabaya.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Item without image</title>
-      <link>https://www.sirkula.id/portfolio/work4/</link>
+      <title>Menjala Data dari Website</title>
+      <link>https://www.sirkula.id/portfolio/web-scrapping/</link>
       <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
       
-      <guid>https://www.sirkula.id/portfolio/work4/</guid>
-      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
+      <guid>https://www.sirkula.id/portfolio/web-scrapping/</guid>
+      <description>&lt;p&gt;Paradigma open data membuat kini banyak data disajikan terbuka online. Namun seringkali tidak ada cara mudah untuk mengunduh data yang diperlukan. Sementara menyalin secara manual tidak memungkinkan ketika jumlah data yang diperlukan sangat banyak hingga perlu membuka puluhan sampai ratusan halaman tabel. Data tersebut masih bisa diperoleh  dengan cara otomasi akses dan penyalinan data tersebut dengan program komputer. Kami berpengalaman melakukan penjalaan data terhadap berbagai macam website dari yang statis hingga dinamis dan melibatkan javascript.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Name of the work 5</title>
-      <link>https://www.sirkula.id/portfolio/work5/</link>
-      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
-      
-      <guid>https://www.sirkula.id/portfolio/work5/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&#39;t them.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Name of the work 6</title>
-      <link>https://www.sirkula.id/portfolio/work6/</link>
-      <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
-      
-      <guid>https://www.sirkula.id/portfolio/work6/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&#39;t them.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Name of the work 7</title>
-      <link>https://www.sirkula.id/portfolio/work7/</link>
-      <pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate>
-      
-      <guid>https://www.sirkula.id/portfolio/work7/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&#39;t them.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Name of the work 8</title>
-      <link>https://www.sirkula.id/portfolio/work8/</link>
-      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
-      
-      <guid>https://www.sirkula.id/portfolio/work8/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&#39;t them.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Item with image</title>
-      <link>https://www.sirkula.id/portfolio/work9/</link>
-      <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
-      
-      <guid>https://www.sirkula.id/portfolio/work9/</guid>
-      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Item with image</title>
-      <link>https://www.sirkula.id/portfolio/work10/</link>
-      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
-      
-      <guid>https://www.sirkula.id/portfolio/work10/</guid>
-      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Item with image</title>
-      <link>https://www.sirkula.id/portfolio/work11/</link>
-      <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
-      
-      <guid>https://www.sirkula.id/portfolio/work11/</guid>
-      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Name of the work 1</title>
-      <link>https://www.sirkula.id/portfolio/work1/</link>
+      <title>Web Profil Akademisi</title>
+      <link>https://www.sirkula.id/portfolio/academic-prof/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>https://www.sirkula.id/portfolio/work1/</guid>
-      <description>&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.&lt;/p&gt;</description>
+      <guid>https://www.sirkula.id/portfolio/academic-prof/</guid>
+      <description>&lt;p&gt;Halaman web universitas biasanya terlalu terbatas untuk menampilkan informasi dan portofolio karya akademisi. Memiliki situs web tersendiri menawarkan fleksibilitas.&lt;/p&gt;</description>
     </item>
     
   </channel>
