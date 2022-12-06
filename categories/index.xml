@@ -1,1 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on Sirkula</title><link>https://sirkula.id/categories/</link><description>Recent content in Categories on Sirkula</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://sirkula.id/categories/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Sirkula</title>
+    <link>https://sirkula.id/categories/</link>
+    <description>Recent content in Categories on Sirkula</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate><atom:link href="https://sirkula.id/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>lorem</title>
+      <link>https://sirkula.id/categories/lorem/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      
+      <guid>https://sirkula.id/categories/lorem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programming</title>
+      <link>https://sirkula.id/categories/programming/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      
+      <guid>https://sirkula.id/categories/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pseudo</title>
+      <link>https://sirkula.id/categories/pseudo/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      
+      <guid>https://sirkula.id/categories/pseudo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>starting</title>
+      <link>https://sirkula.id/categories/starting/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      
+      <guid>https://sirkula.id/categories/starting/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
